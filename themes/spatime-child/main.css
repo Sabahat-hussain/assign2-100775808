@@ -21,7 +21,7 @@ Text Domain:  spatimechild
   margin-top: 10px;
 }
 h2 {
-  color: red !important;
+  color: blueviolet;
 }
 
 .custom-logo-link img {
@@ -29,4 +29,37 @@ h2 {
 }
 #primary-menu-list {
   color: blueviolet;
+}
+.primary-menu-container {
+  margin-right: 200px;
+}
+.wp-block-media-text.is-stacked-on-mobile .wp-block-media-text__content {
+  color: aquamarine;
+}
+
+.body.custom-background {
+  background-color: cornflowerblue;
+}
+
+element.style {
+  font-size: 30px;
+  color: white;
+}
+h1 strong,
+.h1 strong,
+h2 strong,
+.h2 strong,
+h3 strong,
+.h3 strong,
+h4 strong,
+.h4 strong,
+h5 strong,
+.h5 strong,
+h6 strong,
+.h6 strong {
+  color: white;
+}
+
+.wp-block-button__link {
+  background-color: brown;
 }
