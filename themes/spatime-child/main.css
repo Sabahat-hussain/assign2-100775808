@@ -1,0 +1,32 @@
+/*
+Theme Name:   Spa Time Child 
+Theme URI:    https://royalnail.com/themes/
+Description:  A Twenty Twenty-One child theme 
+Author:       Sabahat hussain
+Author URI:   https://royalnail.com/
+Template:     twentytwentyone
+Version:      1.0.0
+Text Domain:  spatimechild
+*/
+
+.site {
+  padding: auto;
+}
+.wp-block-media-text__content {
+  font-size: 10px;
+  padding-top: -10px;
+}
+
+.wp-block-media-text__media {
+  margin-top: 10px;
+}
+h2 {
+  color: red !important;
+}
+
+.custom-logo-link img {
+  height: 500px;
+}
+#primary-menu-list {
+  color: blueviolet;
+}

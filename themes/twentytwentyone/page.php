@@ -9,7 +9,9 @@
  * @since Twenty Twenty-One 1.0
  */
 
-get_header();
+get_header(); ?>
+
+<div id="primary" class="content-area"></div>
 
 /* Start the Loop */
 while ( have_posts() ) :
